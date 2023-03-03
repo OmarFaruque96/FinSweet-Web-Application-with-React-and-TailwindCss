@@ -2,7 +2,7 @@ function BlogItem(props){
     const itemlimit = props.limit;
     return(
         <div>
-            <div className="">
+            <div className="mb-6">
                 <img src="img/blog1.png" className="" alt="episode"/>
                 <h3 className="inter font-semibold text-2xl mt-6 mb-3 themeblack">Ep 1: How to build a world-class business brand</h3>
                 <p className="themeblack inter font-normal text-md mb-4">Lorem ipsum at vero eos et accusam et justo duo dolores et ea rebum.</p>
