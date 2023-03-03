@@ -1,6 +1,7 @@
-import BlogItem from './templates/blogpage/BlogItem'
+import BlogItem from './templates/blogpage/BlogItem';
 import NavBar from './templates/NavBar';
 import Footer from './templates/Footer';
+import Sponsors from './templates/frontpage/Sponsors';
 function Blog(){
     return(
         <>
@@ -12,6 +13,7 @@ function Blog(){
                 </div>
             </div>
         </div>
+        <Sponsors/>
         <Footer />
         </>
         
