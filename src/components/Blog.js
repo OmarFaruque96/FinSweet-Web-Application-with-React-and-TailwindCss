@@ -1,5 +1,6 @@
 import BlogItem from './templates/blogpage/BlogItem'
 import NavBar from './templates/NavBar';
+import Footer from './templates/Footer';
 function Blog(){
     return(
         <>
@@ -11,6 +12,7 @@ function Blog(){
                 </div>
             </div>
         </div>
+        <Footer />
         </>
         
     )
