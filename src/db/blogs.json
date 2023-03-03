@@ -1,0 +1,38 @@
+[
+    {
+        "_id": "63edc2520a4696a787596d97",
+        "index": 0,
+        "thumbnail": "img/blog1.png",
+        "title": "Getting the first 100 customers for your business",
+        "author": "Kabir Haque",
+        "category": "Global",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.."
+    },
+    {
+        "_id": "63edc2520a4696a787596d97",
+        "index": 1,
+        "thumbnail": "img/blog2.png",
+        "title": "Apparently we had reached a great height in the atmosphere, ...",
+        "author": "Fardin Arafat",
+        "category": "Environment",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.."
+    },
+    {
+      "_id": "63edc252dbc367b0a0daa8a2",
+      "index": 2,
+      "thumbnail": "img/blog1.png",
+      "title": "Mexico to open embassy in Bangladesh",
+      "author": "Omar Faruk",
+      "category": "Politics",
+      "description": "The Mexican foreign secretary said with a population of over 170 million, Bangladesh is a major player in South Asia.Mexico is interested in boosting business and cooperation with Bangladesh, particularly in the pharmaceutical, agribusiness, and technology sectors, he added.Bangladesh already has an embassy in Mexico."
+    },
+    {
+        "_id": "63edc2520afd46c5e8c8307c",
+        "index": 3,
+        "thumbnail": "img/blog2.png",
+        "title": "Fire at Indonesian fuel storage station",
+        "author": "Omar Faruk",
+        "category": "Global",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.."
+    }
+]

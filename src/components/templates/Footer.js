@@ -6,24 +6,24 @@ function Footer(){
             {/* footer top */}
             <div className="w-full pb-28 pt-44 bg-[#14142B] -mt-20 -z-10 px-6">
                 <div className="xl:containerxl lg:containerlg md:containermd sm:containersm">
-                    <div className="grid xl:grid-cols-4 lg:grid-cols-4 md:grid-cols-4 sm:grid-cols-1">
+                    <div className="grid xl:grid-cols-4 lg:grid-cols-4 md:grid-cols-4 sm:grid-cols-1 gap-6">
                         <div className="mb-6">
                             <Link to="/"><img src="img/Brand.png" className="w-52" alt="logo"/></Link>
                         </div>
                         <div className="mb-6">
                             <h5 className="intel font-bold text-xl text-white mb-6">Pages</h5>
                             <ul>
-                                <li className="inter font-normal text-md text-white mb-4"><Link to="/">Home</Link></li>
-                                <li className="inter font-normal text-md text-white mb-4"><Link to="/">PodCast</Link></li>
-                                <li className="inter font-normal text-md text-white mb-4"><Link to="/">Host</Link></li>
-                                <li className="inter font-normal text-md text-white mb-4"><Link to="/">Blog</Link></li>
+                                <li className="inter font-normal text-md text-white mb-4"><Link to="/" className="ease-in-out hover:ml-2 hover:ease-in-out hover:duration-300">Home</Link></li>
+                                <li className="inter font-normal text-md text-white mb-4"><Link to="/" className="ease-in-out hover:ml-2 hover:ease-in-out hover:duration-300">PodCast</Link></li>
+                                <li className="inter font-normal text-md text-white mb-4"><Link to="/" className="ease-in-out hover:ml-2 hover:ease-in-out hover:duration-300">Host</Link></li>
+                                <li className="inter font-normal text-md text-white mb-4"><Link to="/" className="ease-in-out hover:ml-2 hover:ease-in-out hover:duration-300">Blog</Link></li>
                             </ul>
                         </div>
                         <div className="mb-6">
                             <h5 className="intel font-bold text-xl text-white mb-6">Reach Us</h5>
                             <ul>
-                                <li className="inter font-normal text-md text-white mb-4"><Link to="/">Contact</Link></li>
-                                <li className="inter font-normal text-md text-white mb-4"><Link to="/">About</Link></li>
+                                <li className="inter font-normal text-md text-white mb-4"><Link to="/" className="ease-in-out hover:ml-2 hover:ease-in-out hover:duration-300">Contact</Link></li>
+                                <li className="inter font-normal text-md text-white mb-4"><Link to="/" className="ease-in-out hover:ml-2 hover:ease-in-out hover:duration-300">About</Link></li>
                             </ul>
                         </div>
                         <div className="mb-6">
