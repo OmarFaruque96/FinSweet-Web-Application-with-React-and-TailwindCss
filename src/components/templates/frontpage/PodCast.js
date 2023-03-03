@@ -1,6 +1,6 @@
 function PodCast(){
     return(
-        <div className="w-full py-28">
+        <div className="w-full py-14">
             <div className="xl:containerxl lg:containerlg md:containermd sm:containersm">
                 <div className="flex">
                     <h3 className="inter font-semibold text-2xl themeblack md:basis-3/12 sm:basis-full">Podcast Available On</h3>
