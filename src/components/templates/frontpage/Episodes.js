@@ -10,14 +10,14 @@ function Episodes(){
                         <p className="inter text-md themeblack">Apparently we had reached a great height in the atmosphere, for the sky was a dead black.</p>
                     </div>
                     <div>
-                        <Link to=""><button className="bgBlue text-white inter font-normal py-3 px-8" >See All Episodes</button></Link>
+                        <Link to="/episode"><button className="bgBlue text-white inter font-normal py-3 px-8" >See All Episodes</button></Link>
                     </div>
                 </div>
 
                 <EpisodeItem 
                 limit = "3"
                 />
-                
+                 
             </div>
         </div>
     )

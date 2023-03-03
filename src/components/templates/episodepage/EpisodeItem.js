@@ -31,7 +31,7 @@ function EpisodeItem(props){
                     </div>
                 </div>
             </div>
-            {/* <p>{itemlimit}</p> */}
+            <p className="hidden">{itemlimit}</p>
         </div>
     )
 }
